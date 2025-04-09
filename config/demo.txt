@@ -17,10 +17,7 @@ CCTV-14
 CCTV-15
 CCTV-16
 CCTV-17
-CETV1
-CETV2
-CETV4
-CETV5
+CCTV-4K
 
 📡卫视频道,#genre#
 广东卫视
@@ -98,14 +95,17 @@ Now华剧
 卫视卡式
 
 🎬电影频道,#genre#
+广州影视
+广东影视
+安徽影视
+湖南电影
+南宁影视
+宁夏影视
+影视.旅游
+BRTV影视
 CHC家庭影院
 CHC动作电影
 CHC高清电影
-淘剧场
-淘娱乐
-淘电影
-NewTV惊悚悬疑
-NewTV动作电影
 
 🏀体育频道,#genre#
 CCTV-5
