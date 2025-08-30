@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-29 18:30:14,https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8
+2025-08-30 18:27:11,https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8
 
 📺央视频道,#genre#
 CCTV-1,https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8
@@ -533,6 +533,7 @@ CCTV-17,rtsp://115.153.254.81/PLTV/88888888/224/3221226846/61397282.smil
 大湾区卫视,http://120.77.205.62:8087/rtp/239.77.0.215:5146
 广州综合,http://120.77.205.62:8087/rtp/239.253.43.71:5146
 广州影视,http://120.77.205.62:8087/rtp/239.253.43.73:5146
+广州竞赛,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=49c8041461997c7a97dbcc3c7fd11b4f&txTime=18d00acf487
 江门综合,http://120.77.205.62:8087/rtp/239.77.0.195:5146
 佛山综合,http://120.77.205.62:8087/rtp/239.253.43.52:5146
 深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
@@ -557,8 +558,8 @@ CCTV-17,rtsp://115.153.254.81/PLTV/88888888/224/3221226846/61397282.smil
 凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
 凤凰资讯,http://218.202.220.2:5000/nn_live.ts?id=FHZX
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
-凤凰香港,https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639&amp;amp;wsIPSercert=6f8d45434604e7d22f5b0abbc0231d01&amp;amp;wsMonitor=0
 凤凰香港,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639&amp;wsIPSercert=6f8d45434604e7d22f5b0abbc0231d01&amp;wsMonitor=0
+凤凰香港,https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639&amp;amp;wsIPSercert=6f8d45434604e7d22f5b0abbc0231d01&amp;amp;wsMonitor=0
 凤凰卫视,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941621&extension=ts&play_token=vFR5CkmzbA
@@ -644,6 +645,7 @@ CCTV-5+,rtsp://115.153.254.81/PLTV/88888888/224/3221226976/85722488.smil
 五星体育,http://api3.52tb.xyz/info?id=376&token=20221127jxwhhemby
 五星体育,http://api2.52tb.xyz/info?id=375&token=20230120rdbtgv
 体育赛事,https://ldcctvwbcdbd.a.bdydns.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=ud
+广州竞赛,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=49c8041461997c7a97dbcc3c7fd11b4f&txTime=18d00acf487
 风云足球,rtsp://115.153.245.70/PLTV/88888888/224/3221227000/86128919.smil
 风云足球,rtsp://115.153.247.80/PLTV/88888888/224/3221227000/86128919.smil
 风云足球,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227000/86128919.smil
