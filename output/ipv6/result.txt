@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-15 18:30:52,https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8
+2025-09-16 18:30:02,https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8
 
 📺央视频道,#genre#
 CCTV-1,https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8
@@ -33,8 +33,8 @@ CCTV-3,rtsp://115.153.245.70/PLTV/88888888/224/3221226841/63329606.smil
 CCTV-3,rtsp://115.153.233.154/PLTV/88888888/224/3221226930/65406412.smil
 CCTV-3,rtsp://115.153.212.72/PLTV/88888888/224/3221226841/63329606.smil
 CCTV-4,https://api.olelive.com/dis/live/CCTV4HD/hls.m3u8
-CCTV-4,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctveurope&ChannelID=cctveurope&videoTVChannel=cctveurope&P2PChannelID=pd://cctv_p2p_cctveurope
 CCTV-4,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?v=180.171.5.8.9.6.3.9&ChannelID=cctveurope&videoTVChannel=cctveurope&P2PChannelID=pd://cctv_p2p_cctveurope&tai=cctv1&VideoName=cctv1&channelID=cctveurope
+CCTV-4,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctveurope&ChannelID=cctveurope&videoTVChannel=cctveurope&P2PChannelID=pd://cctv_p2p_cctveurope
 CCTV-4,http://139.196.214.238/rtp/239.45.0.2:5140
 CCTV-4,http://139.196.151.191/rtp/239.45.0.2:5140
 CCTV-4,http://139.129.231.228/rtp/239.21.1.154:5002
@@ -109,8 +109,8 @@ CCTV-10,rtsp://115.153.233.154/PLTV/88888888/224/3221226630/51813372.smil
 CCTV-10,rtsp://115.153.212.72/PLTV/88888888/224/3221226630/51813372.smil
 CCTV-10,rtsp://180.95.143.19/PLTV/88888910/224/3221225577/10000100000000060000000000107357_0.smil
 CCTV-11,https://api.olelive.com/dis/live/CCTV11HD/hls.m3u8
-CCTV-11,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctv11&ChannelID=cctv11&videoTVChannel=cctv11&P2PChannelID=pd://cctv_p2p_cctv11
 CCTV-11,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=cctv11&videoTVChannel=cctv11&P2PChannelID=pd://cctv_p2p_cctv11&tai=cctv11&VideoName=cctv11&channelID=cctv11
+CCTV-11,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctv11&ChannelID=cctv11&videoTVChannel=cctv11&P2PChannelID=pd://cctv_p2p_cctv11
 CCTV-11,http://139.196.214.238/rtp/239.45.1.196:5140
 CCTV-11,http://139.196.151.191/rtp/239.45.1.196:5140
 CCTV-11,http://139.129.231.228/rtp/239.21.1.12:5002
@@ -119,8 +119,8 @@ CCTV-11,rtsp://115.85.205.19/PLTV/88888910/224/3221225843/376430589.smil
 CCTV-11,rtsp://124.152.124.50/PLTV/88888910/224/3221225843/376430589.smil
 CCTV-11,rtsp://60.13.27.115/PLTV/88888910/224/3221225843/376430589.smil
 CCTV-12,https://api.olelive.com/dis/live/CCTV12HD/hls.m3u8
-CCTV-12,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctv12&ChannelID=cctv12&videoTVChannel=cctv12&P2PChannelID=pd://cctv_p2p_cctv12
 CCTV-12,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?v=180.171.5.8.9.6.3.9&vdnSID=&vdnIP=&vdnCountryCode=&vdnProvinceCode=&vdnCityCode=&vdnISPCode=&tai=cctv12&ChannelID=cctv12&videoTVChannel=cctv12&P2PChannelID=pd://cctv_p2p_cctv12
+CCTV-12,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctv12&ChannelID=cctv12&videoTVChannel=cctv12&P2PChannelID=pd://cctv_p2p_cctv12
 CCTV-12,http://139.196.214.238/rtp/239.45.3.10:5140
 CCTV-12,http://139.196.151.191/rtp/239.45.3.10:5140
 CCTV-12,http://139.129.231.228/rtp/239.21.1.156:5002
@@ -531,6 +531,7 @@ CCTV-17,rtsp://115.153.254.81/PLTV/88888888/224/3221226846/61397282.smil
 大湾区卫视,http://120.77.205.62:8087/rtp/239.77.0.215:5146
 广州综合,http://120.77.205.62:8087/rtp/239.253.43.71:5146
 广州影视,http://120.77.205.62:8087/rtp/239.253.43.73:5146
+广州竞赛,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=49c8041461997c7a97dbcc3c7fd11b4f&txTime=18d00acf487
 江门综合,http://120.77.205.62:8087/rtp/239.77.0.195:5146
 佛山综合,http://120.77.205.62:8087/rtp/239.253.43.52:5146
 深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
@@ -630,6 +631,7 @@ CCTV-5+,rtsp://115.153.254.81/PLTV/88888888/224/3221226976/85722488.smil
 体育赛事,http://139.129.231.228/rtp/239.21.2.44:5002
 超级体育,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=cce4ab&tk=822270345d4c
 精品体育,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5739&tk=23a9aca1f79f
+广州竞赛,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=49c8041461997c7a97dbcc3c7fd11b4f&txTime=18d00acf487
 睛彩羽毛球,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0009&tk=b53028476470
 风云足球,rtsp://115.153.245.70/PLTV/88888888/224/3221227000/86128919.smil
 风云足球,rtsp://115.153.247.80/PLTV/88888888/224/3221227000/86128919.smil
