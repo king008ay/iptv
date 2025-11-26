@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-25 18:35:45,https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8
+2025-11-26 18:34:28,https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8
 
 📺央视频道,#genre#
 CCTV-1,https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8
@@ -604,9 +604,6 @@ CCTV-5+,rtsp://115.153.254.81/PLTV/88888888/224/3221226976/85722488.smil
 纬来体育,rtmp://220.130.201.73/sat/tv721
 五星体育,http://139.196.214.238/rtp/239.45.3.210:5140
 五星体育,http://139.196.151.191/rtp/239.45.3.210:5140
-超级体育,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=cce4ab&tk=822270345d4c
-精品体育,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5739&tk=23a9aca1f79f
-睛彩羽毛球,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0009&tk=b53028476470
 风云足球,rtsp://115.153.245.70/PLTV/88888888/224/3221227000/86128919.smil
 风云足球,rtsp://115.153.247.80/PLTV/88888888/224/3221227000/86128919.smil
 风云足球,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227000/86128919.smil
